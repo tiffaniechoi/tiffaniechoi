@@ -78,16 +78,16 @@ I'm a PM at Microsoft driving scalable observability, operational readiness, and
 
 ---
 
-## Projects
+## Project Spotlight
+
+### 📈 [Signals AI - Know the Mood of the Market Before It Moves](https://github.com/tiffaniechoi/signals-ai) 
+AI-powered sentiment analysis for stocks, ETFs, indices, and crypto - built for anyone who wants a clear read on market direction without spending hours reading the news.· [Live Demo](https://signalsai.vercel.app/)
 
 ### 🏎️ [F1 Live Desktop Wallpaper](https://github.com/tiffaniechoi/f1-live-wallpaper) 
 A desktop wallpaper that automatically shows the next Formula 1 race weekend with session times in your local timezone and current championship standings. One setup and it lasts forever. 🏁
 
 ### 📅 [Microsoft Vacation Planner for RTO Policy](https://github.com/tiffaniechoi/Microsoft-Vacation-Planner-for-RTO-Compliance) 
 A personal tool to help Microsoft employees plan their vacation while staying compliant with Return-to-Office requirements. · [Live Demo](https://msft-rto-planner.vercel.app/)
-
-### 🐿️ [Data Analysis of Central Park Squirrels](https://tiffaniechoi.github.io/projects/2018_central_park_squirrels.html) 
-Data analysis and visualization project using the 2018 NYC Central Park Squirrel Census. Explores squirrel age distribution, fur color geography, sighting times, and behavioral patterns.
 
 ### 🔒 Private Projects
 Some of my work lives in private repos. Feel free to [reach out](mailto:tchoi23@umd.edu) if you'd like to learn more!
