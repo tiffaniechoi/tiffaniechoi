@@ -106,9 +106,9 @@ Activities & Societies: QUEST Honors Program · Iribe Initiative: Peer Mentor ·
 
 | Category | Skills |
 |----------|--------|
-| **Product & Strategy** | Product Strategy · Roadmapping · OKRs · Metrics & KPIs · Stakeholder Management · Agile |
+| **Product** | Product Strategy · Roadmapping · OKRs · Metrics & KPIs · Stakeholder Management · Agile |
 | **Soft Skills** | Stakeholder Communication · Cross-Functional Leadership · Strategic Thinking · Execution · Decision Making · Ownership |
-| **Languages Spoken** | English (Fluent) · Cantonese (Conversational) |
+| **Languages** | English (Fluent) · Cantonese (Conversational) |
 
 ---
 
