@@ -19,7 +19,7 @@
 
 I'm a PM at Microsoft driving scalable observability, operational readiness, and AI-powered tooling across Microsoft clouds. My CS background lets me go deep with engineering teams while keeping the big picture in focus.
 
-- 🎓 B.S. Computer Science (Business concentration) — University of Maryland
+- 🎓 B.S. Computer Science: University of Maryland College Park
 - 💼 Previously: SWE @ STC & Chewy, Researcher @ Johns Hopkins APL
 - 📸 Amateur photographer (landscapes & wildlife)
 - 🥾 Hiker · ✈️ Traveler · 🍵 Matcha enthusiast · 🎾 Learning tennis
