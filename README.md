@@ -13,7 +13,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -24,7 +24,7 @@ I'm a PM at Microsoft driving scalable observability, operational readiness, and
 - 📸 Amateur photographer (landscapes & wildlife)
 - 🥾 Hiker · ✈️ Traveler · 🍵 Matcha enthusiast · 🎾 Learning tennis
 
----
+
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ I'm a PM at Microsoft driving scalable observability, operational readiness, and
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+
 
 ## Experience
 
@@ -76,7 +76,7 @@ I'm a PM at Microsoft driving scalable observability, operational readiness, and
 | Software Engineer Intern | Chewy | Jun – Aug 2021 |
 | Researcher Intern | Johns Hopkins Applied Physics Lab | Sep 2017 – Jun 2019 |
 
----
+
 
 ## Project Spotlight
 
@@ -92,7 +92,7 @@ A personal tool to help Microsoft employees plan their vacation while staying co
 ### 🔒 Private Projects
 Some of my work lives in private repos. Feel free to [reach out](mailto:tchoi23@umd.edu) if you'd like to learn more!
 
----
+
 
 ## Education
 
@@ -100,7 +100,7 @@ Some of my work lives in private repos. Feel free to [reach out](mailto:tchoi23@
 
 Activities & Societies: QUEST Honors Program · Iribe Initiative: Peer Mentor · Scholars Peer Mentor · STS Scholars · Association for Women in Computing · Asian American Student Union: Social Chair · Technica Hackathon Organizer · Bitcamp Hackathon Organizer · Survivor Contestant
 
----
+
 
 ## Skills
 
@@ -110,7 +110,7 @@ Activities & Societies: QUEST Honors Program · Iribe Initiative: Peer Mentor ·
 | **Soft Skills** | Stakeholder Communication · Cross-Functional Leadership · Strategic Thinking · Execution · Decision Making · Ownership |
 | **Languages** | English (Fluent) · Cantonese (Conversational) |
 
----
+
 
 
 <div align="center">
