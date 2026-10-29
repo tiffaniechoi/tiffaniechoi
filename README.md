@@ -2,9 +2,9 @@
 
 # Hi, I'm Tiffanie 👋
 
-**Product Manager II @ Microsoft** · Seattle, WA
+**Sofware Engineer II @ Microsoft** · Seattle, WA
 
-*PM with SWE roots, combining technical depth with product strategy and execution to drive scalable outcomes*
+*SWE and former PM, bridging engineering and product strategy to build impactful solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiffaniexchoi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiffaniexchoi/)
 [![GitHub](https://img.shields.io/badge/GitHub-tiffaniechoi-181717?style=flat&logo=github&logoColor=white)](https://github.com/tiffaniechoi)
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a PM at Microsoft driving scalable observability, operational readiness, and AI-powered tooling across Microsoft clouds. My CS background lets me go deep with engineering teams while keeping the big picture in focus.
+Backend developer on Microsoft Commerce
 
 - 🎓 B.S. Computer Science: University of Maryland College Park
 - 💼 Previously: SWE @ STC & Chewy, Researcher @ Johns Hopkins APL
@@ -71,7 +71,8 @@ I'm a PM at Microsoft driving scalable observability, operational readiness, and
 
 | Role | Company | Period |
 |------|---------|--------|
-| Product Manager II | Microsoft | Aug 2023 – Present |
+| Software Engineer II | Microsoft | Oct 2026 – Present |
+| Product Manager II | Microsoft | Aug 2023 – Sept 2026 |
 | Software Engineer (Part-Time) | Science and Technology Corporation | Jul 2020 – Aug 2023 |
 | Software Engineer Intern | Chewy | Jun – Aug 2021 |
 | Researcher Intern | Johns Hopkins Applied Physics Lab | Sep 2017 – Jun 2019 |
